@@ -1,7 +1,7 @@
 import discord
 
 
-BOT_TOKEN = "MTAzMjY3NjAzMTM1MTUwNTA0Ng.Gh1Tll.oLMdfcInrWcZlk7EpJfNkxlErUaEVXZ51l_bAk" #TOP SECRET DO NOT DISCLOSE
+BOT_TOKEN = "xxx" #TOP SECRET DO NOT DISCLOSE
 
 intents = discord.Intents.all()
 client = discord.Client(intents=intents)
